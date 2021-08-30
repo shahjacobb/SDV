@@ -1,4 +1,4 @@
-	# 	This is Software Development Venture's at Queen's College official website remote repo.
+	# This is Software Development Venture's at Queen's College official website remote repo.
 
 	### Additional Requirements Needed
 	1. Need atleast 4 webpages **ASAP**
